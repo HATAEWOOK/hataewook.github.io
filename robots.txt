@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hataewook.github.io/sitemap.xml
