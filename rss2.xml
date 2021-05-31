@@ -9,7 +9,7 @@
     <atom:link href="https://hataewook.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Mon, 31 May 2021 12:53:08 GMT</pubDate>
+    <pubDate>Mon, 31 May 2021 12:54:49 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -31,7 +31,11 @@
       
       
       
-      <category domain="https://hataewook.github.io/tags/%EB%A6%AC%ED%8A%B8%EC%BD%94%EB%93%9C-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/">리트코드; 코딩테스트</category>
+      <category domain="https://hataewook.github.io/tags/%EB%A6%AC%ED%8A%B8%EC%BD%94%EB%93%9C/">리트코드</category>
+      
+      <category domain="https://hataewook.github.io/tags/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/">코딩테스트</category>
+      
+      <category domain="https://hataewook.github.io/tags/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/">알고리즘</category>
       
       
       <comments>https://hataewook.github.io/2021/05/31/leet561/#disqus_thread</comments>
