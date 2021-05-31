@@ -10,7 +10,7 @@
 
     <url>
         <loc>https://hataewook.github.io/2021/05/31/leet561/</loc>
-        <lastmod>2021-05-31T12:29:30.787Z</lastmod>
+        <lastmod>2021-05-31T12:52:19.360Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -18,15 +18,7 @@
 
     <url>
         <loc>https://hataewook.github.io/2021/05/09/oop/</loc>
-        <lastmod>2021-05-09T12:51:27.581Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://hataewook.github.io/2021/04/07/blog01/</loc>
-        <lastmod>2021-04-28T14:26:41.695Z</lastmod>
+        <lastmod>2021-05-31T12:52:17.833Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -34,7 +26,7 @@
 
     <url>
         <loc>https://hataewook.github.io/2021/04/08/blog03/</loc>
-        <lastmod>2021-04-28T14:24:26.866Z</lastmod>
+        <lastmod>2021-05-31T12:52:10.801Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -42,7 +34,15 @@
 
     <url>
         <loc>https://hataewook.github.io/2021/04/07/blog02/</loc>
-        <lastmod>2021-04-28T14:24:22.783Z</lastmod>
+        <lastmod>2021-05-31T12:52:04.208Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://hataewook.github.io/2021/04/07/blog01/</loc>
+        <lastmod>2021-05-31T12:51:52.800Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
